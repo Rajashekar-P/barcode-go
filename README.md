@@ -1,2 +1,2 @@
 # barcode-go
-This is BarCode Generator Golang Application
+This is QR Code Generator Golang Application
